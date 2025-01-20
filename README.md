@@ -10,4 +10,4 @@ experiment/に移動し、アスキーアートのファイル({name}.txt)をinp
 ```bash
 python3 main.py {name}
 ```
-direct, CoT, WoTの結果がresult/に保存されます。WoTの生成したコードはcode/に、生成した画像はimage/に保存されます。
+direct, CoT, WoTの結果がresult/に保存されます。WoTの生成したコードはcode/に、画像はimage/に保存されます。
