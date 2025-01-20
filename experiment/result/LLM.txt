@@ -1,0 +1,1 @@
+{'dierct': ' This ASCII art represents the word "HELLO".', 'cot': ' HELLO', 'wot': ' The image represents a bar graph or histogram, which is commonly used to display and compare the frequency or magnitude of different categories of data.'}

@@ -1,0 +1,1 @@
+{'dierct': ' A heart shape.', 'cot': ' heart', 'wot': ' The image represents the number "3."'}
