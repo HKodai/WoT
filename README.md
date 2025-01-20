@@ -1,4 +1,4 @@
-Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities(https://whiteboard.cs.columbia.edu/)を参考に、Whiteboard-of-Thoughtを実装しました。
+Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities(https://whiteboard.cs.columbia.edu/ )を参考に、Whiteboard-of-Thoughtを実装しました。
 
 OpenAIのAPIを使用します。以下のコマンドを実行してください。
 
